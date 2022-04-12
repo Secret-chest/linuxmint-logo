@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="967.19891"
+   height="256"
+   viewBox="0 0 967.19891 256"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="modern-leaf-name-mono.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="1.017847"
+     inkscape:cx="301.12579"
+     inkscape:cy="110.52741"
+     inkscape:current-layer="layer3-5"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer3">
+    <text
+       xml:space="preserve"
+       style="font-size:144px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono'"
+       x="300.76801"
+       y="183.08"
+       id="text3643"><tspan
+         sodipodi:role="line"
+         id="tspan3641"
+         x="300.76801"
+         y="183.08"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:144px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff">linux mint</tspan></text>
+    <g
+       id="layer3-5"
+       transform="translate(282.18574,-295.51225)">
+      <path
+         id="path40"
+         style="fill:#ffffff;stroke-width:0"
+         d="m -282.18574,295.51225 v 128 c 0,70.69245 57.30755,128 128,128 h 128 v -128 c 0,-70.69245 -57.30755,-128 -128,-128 z m 44,44 h 24 v 120 c 0,13.39696 10.60303,24 24,24 h 72 c 13.39696,0 24,-10.60304 24,-24 v -62 c 0,-6.76954 -5.23047,-12 -12,-12 -6.76954,0 -12,5.23046 -12,12 v 62 h -24 v -62 c 0,-6.76954 -5.23047,-12 -12,-12 -6.76954,0 -12,5.23046 -12,12 v 62 h -24 v -62 c 0,-19.7401 16.2599,-36 36,-36 9.22192,0 17.60014,3.64513 24,9.43945 6.39986,-5.79432 14.77807,-9.43945 24,-9.43945 19.74009,0 36,16.2599 36,36 v 62 c 0,26.3675 -21.6325,48 -48,48 h -72 c -26.36751,0 -48,-21.6325 -48,-48 z" />
+    </g>
+  </g>
+</svg>
