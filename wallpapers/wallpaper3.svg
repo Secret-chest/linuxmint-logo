@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840"
+   height="2160"
+   version="1.1"
+   viewBox="0 0 1016 571.5"
+   id="svg14"
+   sodipodi:docname="wallpaper2.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <defs
+     id="defs18">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter1825"
+       x="-0.037794222"
+       y="-0.037794628"
+       width="1.0755884"
+       height="1.0755893">
+      <feFlood
+         flood-opacity="1"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood1815" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite1817" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.4"
+         result="blur"
+         id="feGaussianBlur1819" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset1821" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite1823" />
+    </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath2175">
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:#26c6da;stroke-width:0.0708142;paint-order:markers stroke fill"
+         id="rect2177"
+         width="67.982147"
+         height="38.239548"
+         x="12.575429"
+         y="231.31023" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview16"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.088963793"
+     inkscape:cx="1804.1047"
+     inkscape:cy="1635.4968"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF />
+  </metadata>
+  <g
+     transform="matrix(14.945101,0,0,14.945261,-187.94105,-3456.9917)"
+     id="g1768"
+     clip-path="url(#clipPath2175)">
+    <path
+       d="m 93.133,250.43 c -2e-6,12.86 0,46.567 0,46.567 L 0,203.864 c 0,0 35.294,-1e-5 46.567,-1e-5 25.718,0 46.567,20.849 46.567,46.567 z"
+       fill="#4caf50"
+       id="path1764" />
+    <path
+       d="m 2.2453e-7,250.43 c 2e-6,-12.86 0,-46.567 0,-46.567 L 93.133,296.996 c 0,0 -35.294,1e-5 -46.567,1e-5 -25.718,0 -46.56699977547,-20.849 -46.56699977547,-46.567 z"
+       fill="#388e3c"
+       id="path1766" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Layer 1" />
+</svg>
