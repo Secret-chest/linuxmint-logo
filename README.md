@@ -2,4 +2,4 @@
 # linuxmint-logo
 Some nice material Linux Mint logos I made
 
-![preview](logos.svg)
+![preview](nice-preview.svg)
