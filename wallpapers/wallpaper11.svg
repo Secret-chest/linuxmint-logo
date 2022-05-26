@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="wallpaper11.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="px"
+     showgrid="false"
+     borderlayer="false"
+     inkscape:showpageshadow="true"
+     units="px"
+     width="1920px"
+     inkscape:zoom="0.34120371"
+     inkscape:cx="945.18317"
+     inkscape:cy="558.3175"
+     inkscape:current-layer="g5441" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5711">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5713"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5715">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5717"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5719">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5721"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5723">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5725"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5727">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5729"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5731">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5733"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5735">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5737"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5739">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5741"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath5743">
+      <rect
+         style="opacity:1;fill:#263238;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5745"
+         width="508"
+         height="285.75"
+         x="4.4444446e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502" />
+    </clipPath>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6417"
+       x="-0.070866137"
+       y="-0.070866137"
+       width="1.1417323"
+       height="1.1417323">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6407" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6409" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur6411" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6413" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6415" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6447"
+       x="-0.05669291"
+       y="-0.05669291"
+       width="1.1133858"
+       height="1.1133858">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6437" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6439" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur6441" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6443" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6445" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6477"
+       x="-0.047244095"
+       y="-0.047244095"
+       width="1.0944882"
+       height="1.0944882">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6467" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6469" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur6471" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6473" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6475" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6507"
+       x="-0.037795276"
+       y="-0.037795276"
+       width="1.0755906"
+       height="1.0755906">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6497" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6499" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur6501" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6503" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6505" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6537"
+       x="-0.031496061"
+       y="-0.031496061"
+       width="1.0629921"
+       height="1.0629921">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6527" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6529" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur6531" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6533" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6535" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6567"
+       x="-0.024649092"
+       y="-0.024649092"
+       width="1.0492982"
+       height="1.0492982">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6557" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6559" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur6561" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6563" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6565" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter6597"
+       x="-0.020247469"
+       y="-0.020247469"
+       width="1.0404949"
+       height="1.0404949">
+      <feFlood
+         flood-opacity="0.501961"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood6587" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite6589" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="4"
+         result="blur"
+         id="feGaussianBlur6591" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset6593" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite6595" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Strat 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5441">
+      <rect
+         style="opacity:1;fill:#ff9800;stroke-width:0.264583;paint-order:markers fill stroke"
+         id="rect5627"
+         width="508"
+         height="285.75"
+         x="4.4444441e-06"
+         y="2.4999999e-06"
+         rx="0.39687502"
+         ry="0.39687502"
+         clip-path="url(#clipPath5743)" />
+      <circle
+         style="opacity:1;fill:#ff9800;stroke-width:1.16692;paint-order:markers fill stroke"
+         id="circle5395"
+         cx="245.53336"
+         cy="245.53336"
+         r="270.93335"
+         clip-path="url(#clipPath5739)" />
+      <circle
+         style="opacity:1;fill:#f9ce1d;stroke-width:1.02105;paint-order:markers fill stroke;filter:url(#filter6597)"
+         id="circle5177"
+         cx="211.66669"
+         cy="211.66669"
+         r="237.06667"
+         clip-path="url(#clipPath5735)" />
+      <circle
+         style="opacity:1;fill:#8bc34a;stroke-width:0.838722;paint-order:markers fill stroke;filter:url(#filter6567)"
+         id="circle5157"
+         cx="169.33334"
+         cy="169.33337"
+         r="194.73334"
+         clip-path="url(#clipPath5731)" />
+      <circle
+         style="opacity:1;fill:#009688;stroke-width:0.656391;paint-order:markers fill stroke;filter:url(#filter6537)"
+         id="circle5137"
+         cx="127.00003"
+         cy="127.00005"
+         r="152.40001"
+         clip-path="url(#clipPath5727)" />
+      <circle
+         style="opacity:1;fill:#03a9f4;stroke-width:0.546993;paint-order:markers fill stroke;filter:url(#filter6507)"
+         id="circle5117"
+         cx="101.60004"
+         cy="101.60005"
+         r="127"
+         clip-path="url(#clipPath5723)" />
+      <circle
+         style="opacity:1;fill:#3f51b5;stroke-width:0.437594;paint-order:markers fill stroke;filter:url(#filter6477)"
+         id="circle5025"
+         cx="76.200035"
+         cy="76.20005"
+         r="101.6"
+         clip-path="url(#clipPath5719)" />
+      <circle
+         style="opacity:1;fill:#9c27b0;stroke-width:0.364662;paint-order:markers fill stroke;filter:url(#filter6447)"
+         id="circle4987"
+         cx="59.266701"
+         cy="59.266724"
+         r="84.666672"
+         clip-path="url(#clipPath5715)" />
+      <circle
+         style="opacity:1;fill:#f44336;stroke-width:0.29173;paint-order:markers fill stroke;filter:url(#filter6417)"
+         id="path844"
+         cx="42.33337"
+         cy="42.333393"
+         r="67.733337"
+         clip-path="url(#clipPath5711)" />
+    </g>
+  </g>
+  <metadata
+     id="metadata2277">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
