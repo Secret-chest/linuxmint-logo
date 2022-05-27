@@ -17,3 +17,9 @@ Also, it's Linux Mint, not Linuxmint.
 My logo has a leaf shape, but it's a very simple one. 50% circle, 50% square.
 I also changed the colour to `#4caf50` from the Material Design palette. It's also two-tone, and the second colour is `#388e3c`.  Some might want a turquoise colour, but here is a photo of mint:
 ![Mint](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mint_leaves_%28Mentha_spicata%29.jpg/1003px-Mint_leaves_%28Mentha_spicata%29.jpg?20210327162432)
+
+## Logos on all colours
+![preview](nice-preview.svg)
+
+## LMDE logos
+![preview](nice-preview-lmde.svg)

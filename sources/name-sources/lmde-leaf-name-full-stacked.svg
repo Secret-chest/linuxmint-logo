@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1210.8459"
+   height="288"
+   viewBox="0 0 1210.8459 288"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="lmde-leaf-name-full-stacked.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="0.35986328"
+     inkscape:cx="671.08821"
+     inkscape:cy="307.06106"
+     inkscape:current-layer="layer3"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050" />
+  <defs
+     id="defs4" />
+  <g
+     id="layer3">
+    <text
+       xml:space="preserve"
+       style="font-size:144px;line-height:1;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono'"
+       x="300.76801"
+       y="126.07404"
+       id="text3643"><tspan
+         sodipodi:role="line"
+         id="tspan3641"
+         x="300.76801"
+         y="126.07404"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:144px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff">linux mint</tspan><tspan
+         sodipodi:role="line"
+         x="300.76801"
+         y="271.94196"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:144px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';fill:#ffffff"
+         id="tspan1147"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Light'"
+           id="tspan1051">debian edition</tspan></tspan></text>
+    <g
+       id="g1206"
+       transform="translate(0,16)">
+      <g
+         id="layer3-5"
+         transform="translate(282.18574,-295.51225)">
+        <path
+           id="path40-3"
+           style="fill:#c2185b;stroke-width:0"
+           d="m -26.18574,423.51225 c 0,32.64694 0,128 0,128 0,0 -89.95449,0 -128,0 -70.69245,0 -128,-57.30755 -128,-128 0,-35.4959 0,-128 0,-128 0,0 92.80345,0 128,0 70.69245,0 128,57.30755 128,128 z"
+           sodipodi:nodetypes="scsscss" />
+        <path
+           id="path1655-5"
+           style="fill:#e91e63;stroke-width:0"
+           d="m -26.18574,423.51225 v 128 l -256,-256 h 128 c 70.69245,0 128,57.30755 128,128 z"
+           sodipodi:nodetypes="sccss" />
+        <path
+           style="color:#000000;fill:#ffffff;stroke-width:0;-inkscape-stroke:none"
+           d="m -238.18574,339.51225 v 120 c 0,26.3675 21.63249,48 48,48 h 72 c 26.3675,0 48,-21.6325 48,-48 v -62 c 0,-19.7401 -16.25991,-36 -36,-36 -9.22193,0 -17.60014,3.64514 -24,9.43946 -6.39986,-5.79432 -14.77808,-9.43946 -24,-9.43946 -19.7401,0 -36,16.2599 -36,36 v 62 h 24 v -62 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 62 h 24 v -62 c 0,-6.76954 5.23046,-12 12,-12 6.76953,0 12,5.23046 12,12 v 62 c 0,13.39696 -10.60304,24 -24,24 h -72 c -13.39697,0 -24,-10.60304 -24,-24 v -120 z"
+           id="path4193-6"
+           sodipodi:nodetypes="csssssscssccsssccssssssscc" />
+      </g>
+    </g>
+  </g>
+</svg>
